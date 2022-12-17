@@ -1,1 +1,1 @@
-#patika-dev-prjeler
+##Patika Dev Eğitimleri boyunca yaptığım tüm projeler burada bulunmaktadır.
