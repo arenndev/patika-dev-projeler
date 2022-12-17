@@ -3,6 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 - Öncelikle projeyi clonelayın
+
  `git clone https://github.com/arenumutcesmeci/patika-dev-projeler/tree/main/patikaIkrepo`
 
 # Usage 
