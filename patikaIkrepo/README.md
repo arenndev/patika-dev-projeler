@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Installation
 - Öncelikle projeyi clonelayın
 
-` git clone https://github.com/arenumutcesmeci/patika-dev-projeler/edit/main/patikaIkrepo
+` git clone https://github.com/arenumutcesmeci/patika-dev-projeler/tree/main/patikaIkrepo
 
 # Usage 
 - Projeyi cloneladıktan sonra VS Code programında açınız.
