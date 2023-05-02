@@ -1,0 +1,15 @@
+C:\Users\cesme\Desktop\prac\operatörler\bin\Debug\net7.0\operatörler.exe
+C:\Users\cesme\Desktop\prac\operatörler\bin\Debug\net7.0\operatörler.deps.json
+C:\Users\cesme\Desktop\prac\operatörler\bin\Debug\net7.0\operatörler.runtimeconfig.json
+C:\Users\cesme\Desktop\prac\operatörler\bin\Debug\net7.0\operatörler.dll
+C:\Users\cesme\Desktop\prac\operatörler\bin\Debug\net7.0\operatörler.pdb
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.csproj.AssemblyReference.cache
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.AssemblyInfoInputs.cache
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.AssemblyInfo.cs
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.csproj.CoreCompileInputs.cache
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.dll
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\refint\operatörler.dll
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.pdb
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\operatörler.genruntimeconfig.cache
+C:\Users\cesme\Desktop\prac\operatörler\obj\Debug\net7.0\ref\operatörler.dll
