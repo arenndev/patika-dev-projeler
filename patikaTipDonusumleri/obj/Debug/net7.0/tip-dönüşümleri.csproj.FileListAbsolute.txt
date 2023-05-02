@@ -1,0 +1,15 @@
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\bin\Debug\net7.0\tip-dönüşümleri.exe
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\bin\Debug\net7.0\tip-dönüşümleri.deps.json
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\bin\Debug\net7.0\tip-dönüşümleri.runtimeconfig.json
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\bin\Debug\net7.0\tip-dönüşümleri.dll
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\bin\Debug\net7.0\tip-dönüşümleri.pdb
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.AssemblyInfo.cs
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.dll
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\refint\tip-dönüşümleri.dll
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.pdb
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\tip-dönüşümleri.genruntimeconfig.cache
+C:\Users\cesme\Desktop\prac\tip-dönüşümleri\obj\Debug\net7.0\ref\tip-dönüşümleri.dll
