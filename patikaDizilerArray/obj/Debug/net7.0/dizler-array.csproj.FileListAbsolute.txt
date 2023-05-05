@@ -1,0 +1,15 @@
+C:\Users\cesme\Desktop\prac\dizler-array\bin\Debug\net7.0\dizler-array.exe
+C:\Users\cesme\Desktop\prac\dizler-array\bin\Debug\net7.0\dizler-array.deps.json
+C:\Users\cesme\Desktop\prac\dizler-array\bin\Debug\net7.0\dizler-array.runtimeconfig.json
+C:\Users\cesme\Desktop\prac\dizler-array\bin\Debug\net7.0\dizler-array.dll
+C:\Users\cesme\Desktop\prac\dizler-array\bin\Debug\net7.0\dizler-array.pdb
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.csproj.AssemblyReference.cache
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.AssemblyInfoInputs.cache
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.AssemblyInfo.cs
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.csproj.CoreCompileInputs.cache
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.dll
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\refint\dizler-array.dll
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.pdb
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\dizler-array.genruntimeconfig.cache
+C:\Users\cesme\Desktop\prac\dizler-array\obj\Debug\net7.0\ref\dizler-array.dll
