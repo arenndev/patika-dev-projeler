@@ -1,0 +1,15 @@
+C:\Users\cesme\Desktop\prac\recursive-extension\bin\Debug\net7.0\recursive-extension.exe
+C:\Users\cesme\Desktop\prac\recursive-extension\bin\Debug\net7.0\recursive-extension.deps.json
+C:\Users\cesme\Desktop\prac\recursive-extension\bin\Debug\net7.0\recursive-extension.runtimeconfig.json
+C:\Users\cesme\Desktop\prac\recursive-extension\bin\Debug\net7.0\recursive-extension.dll
+C:\Users\cesme\Desktop\prac\recursive-extension\bin\Debug\net7.0\recursive-extension.pdb
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.csproj.AssemblyReference.cache
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.AssemblyInfoInputs.cache
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.AssemblyInfo.cs
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.dll
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\refint\recursive-extension.dll
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.pdb
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\recursive-extension.genruntimeconfig.cache
+C:\Users\cesme\Desktop\prac\recursive-extension\obj\Debug\net7.0\ref\recursive-extension.dll
